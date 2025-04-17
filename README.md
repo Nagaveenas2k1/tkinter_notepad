@@ -10,7 +10,7 @@ A simple Notepad application built with Python and Tkinter.
 
 ## Screenshot
 
-![Screenshot of Notepad App](Tkinter20%Notepad20%screenshot.png)
+![Screenshot of Notepad App](Tkinter_Notepad_screenshot.png)
 
 ## How to Run
 1. Install Python 3.12 or latest version.
@@ -19,4 +19,4 @@ A simple Notepad application built with Python and Tkinter.
 4. Run the command: python notepad_app.py
 
 ## Author
-- [S Nagaveena]
+- S Nagaveena
